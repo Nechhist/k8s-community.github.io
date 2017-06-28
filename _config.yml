@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: [k8s.community]
 description: [Про Kubernetes по-русски]
+github:
+  repository_url: https://github.com/k8s-community
