@@ -1,3 +1,5 @@
+url: https://k8s.community  # with the https protocol
+enforce_ssl: k8s.community  # without any protocol
 theme: jekyll-theme-slate
 title: [k8s.community]
 description: [Про Kubernetes по-русски]
