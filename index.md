@@ -42,7 +42,7 @@
 ## Спонсоры и друзья 
 
 [![Openprovider](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/partners/openprovider.png)](https://openprovider.nl)
-{: style="text-align: center;"}
+{: style="text-align: center; border: 0; width: 350px;"}
 
 [![Golangshow](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/partners/golangshow.png)](https://golangshow.com)
 {: style="text-align: center;"}
