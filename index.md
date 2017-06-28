@@ -41,9 +41,7 @@
 
 ## Генеральный спонсор 
 
-<p align="center">
 [![Openprovider](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/partners/openprovider.png)](https://openprovider.nl)
-</p>
 
 ## Друзья сообщества
 
