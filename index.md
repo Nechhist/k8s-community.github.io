@@ -12,6 +12,7 @@
 Любые вопросы также можно задать [по электронной почте](mailto:k8s.community@gmail.com).
 
 ## Запланированные мероприятия
+{: style="text-align: center;"}
 
 ### 23-24 сентября 2017, DevFest Siberia
 
@@ -22,6 +23,7 @@
 Приезжайте к нам, обещаем, что будет интересно!
 
 ## Прошедшие мероприятия
+{: style="text-align: center;"}
 
 ### 6 июня 2017, РИТ++
 
@@ -40,7 +42,8 @@
 Двадцатого мая состоялся наш первый митап в Новосибирске.
 Видеозапись мероприятия доступна [по ссылке](https://youtu.be/rn6D_YFMpow).
 
-## Спонсоры и друзья 
+## Спонсоры и друзья
+{: style="text-align: center;"}
 
 [![Openprovider](/assets/partners/openprovider.png)](https://openprovider.nl)
 {: style="text-align: center;"}
