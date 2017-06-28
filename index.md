@@ -45,5 +45,7 @@
 {: style="text-align: center;"}
 
 [![Golangshow](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/partners/golangshow.png)](https://golangshow.com)
+{: style="text-align: center;"}
 
 [![GDG Novosibirsk](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/partners/gdgnovosibirsk.png)](https://www.meetup.com/GDGNsk)
+{: style="text-align: center;"}
