@@ -41,6 +41,12 @@
 
 ## Генеральный спонсор 
 
+<p align="center">
+[![Openprovider](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/partners/openprovider.png)](https://openprovider.nl)
+</p>
 
-## Партнеры сообщества
+## Друзья сообщества
 
+[![Golangshow](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/partners/golanghshow.png)](https://golangshow.com)
+
+[![GDG Novosibirsk](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/partners/gdgnovosibirsk.png)](https://www.meetup.com/GDGNsk/gdgnovosbirsk.png)
