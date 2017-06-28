@@ -39,11 +39,11 @@
 Двадцатого мая состоялся наш первый митап в Новосибирске.
 Видеозапись мероприятия доступна [по ссылке](https://youtu.be/rn6D_YFMpow).
 
-## Генеральный спонсор 
+## Спонсоры и друзья 
 
+<p align="center">
 [![Openprovider](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/partners/openprovider.png)](https://openprovider.nl)
-
-## Друзья сообщества
+</p>
 
 [![Golangshow](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/partners/golangshow.png)](https://golangshow.com)
 
