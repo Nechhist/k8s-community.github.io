@@ -2,6 +2,7 @@
 Расписание мастер-классов можно найти ниже. 
 
 Присоединяйтесь к нам:
+{: style="text-align: center;"}
 
 [![GitHub](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/icons/github.png)](https://github.com/k8s-community)
 [![Twitter](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/icons/twitter.png)](https://twitter.com/k8s_community)
