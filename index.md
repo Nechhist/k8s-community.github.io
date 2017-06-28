@@ -6,7 +6,7 @@
 [![GitHub](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/icons/github.png)](https://github.com/k8s-community)
 [![Twitter](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/icons/twitter.png)](https://twitter.com/k8s_community)
 [![Meetup](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/icons/meetup.png)](https://www.meetup.com/Kubernetes-Novosibirsk/)
-
+{: style="text-align: center;"}
 
 Любые вопросы также можно задать [по электронной почте](mailto:k8s.community@gmail.com).
 
@@ -42,7 +42,7 @@
 ## Спонсоры и друзья 
 
 [![Openprovider](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/partners/openprovider.png)](https://openprovider.nl)
-{: style="text-align: center; border: 0; width: 350px;"}
+{: style="text-align: center;"}
 
 [![Golangshow](https://raw.githubusercontent.com/k8s-community/k8s-community.github.io/master/partners/golangshow.png)](https://golangshow.com)
 {: style="text-align: center;"}
