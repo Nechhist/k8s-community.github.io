@@ -6,6 +6,7 @@
 
 [![GitHub](/assets/icons/github.png)](https://github.com/k8s-community)
 [![Twitter](assets/icons/twitter.png)](https://twitter.com/k8s_community)
+[![Slack](/assets/icons/slack.png)](https://slack.k8s.community)
 [![Meetup](/assets/icons/meetup.png)](https://www.meetup.com/Kubernetes-Novosibirsk/)
 {: style="text-align: center;"}
 
