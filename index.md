@@ -12,19 +12,18 @@
 
 Любые вопросы также можно задать [по электронной почте](mailto:k8s.community@gmail.com).
 
-## Запланированные мероприятия
+## Прошедшие мероприятия
 {: style="text-align: center;"}
 
 ### 23-24 сентября 2017, DevFest Siberia
 
-Специально для конференции [DevFest Siberia 2017](http://gdg-siberia.com), 
-которая пройдет в Новосибирске 23-24 сентября, мы готовим
-большой мастер-класс по Go и Kubernetes.
+Специально для конференции [DevFest Siberia 2017](http://gdg-siberia.com)
+мы подготовили большой мастер-класс по Go и Kubernetes.
 
-Приезжайте к нам, обещаем, что будет интересно!
+Материалы мастер-класса:
 
-## Прошедшие мероприятия
-{: style="text-align: center;"}
+- [видеозапись](https://youtu.be/CrxzKOaGU88)
+- [слайды](https://github.com/k8s-community/devfest-siberia-2017-slides)
 
 ### 6 июня 2017, РИТ++
 
