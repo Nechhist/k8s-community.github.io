@@ -12,6 +12,12 @@
 
 Любые вопросы также можно задать [по электронной почте](mailto:k8s.community@gmail.com).
 
+## Публикации
+{: style="text-align: center;"}
+
+-  [Write a Kubernetes-ready service from zero step-by-step](https://blog.gopheracademy.com/advent-2017/kubernetes-ready-service/) и [перевод на русский](https://habrahabr.ru/post/345332/)
+- [Готовим сборку Go-приложения в продакшн](https://habrahabr.ru/post/337158/)
+
 ## Прошедшие мероприятия
 {: style="text-align: center;"}
 
